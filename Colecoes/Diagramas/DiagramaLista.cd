@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Base.Colecoes.Lista&lt;T&gt;">
+    <Position X="3.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAgAAAAQlACwAAAACAAAAAAAAAEAEAAAA=</HashCode>
+      <FileName>Lista.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Base.Colecoes.IIterator">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IIterator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Base.Colecoes.ILista&lt;T&gt;">
+    <Position X="1.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAgAAAAAFAAgAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>ILista.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

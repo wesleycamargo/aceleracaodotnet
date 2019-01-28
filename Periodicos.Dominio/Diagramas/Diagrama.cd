@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Periodicos.Dominio.Entidades.Periodico.Estados.Aceito">
+    <Position X="6.75" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Periodico\Estados\Aceito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Periodicos.Dominio.Entidades.Periodico.Estados.Inativo">
+    <Position X="5" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Periodico\Estados\Inativo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Periodicos.Dominio.Entidades.Periodico.Estados.Apreciacao">
+    <Position X="1.5" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Periodico\Estados\Apreciacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Periodicos.Dominio.Entidades.Periodico.Estados.Avaliacao">
+    <Position X="3.25" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Periodico\Estados\Avaliacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Periodicos.Dominio.Entidades.Periodico.Estados.IEstado">
+    <Position X="4" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Periodico\Estados\IEstado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Periodicos.Dominio.Entidades.Periodico.Artigo">
+    <Position X="8.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACAAAEAAAAAAAAQCAAAAAEAIAAAQACAAAAAgkEAGA=</HashCode>
+      <FileName>Entidades\Periodico\Artigo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Periodicos.Dominio.Entidades.Pessoa.Autor" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Entidades\Pessoa\Autor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Periodicos.Dominio.Entidades.Pessoa.Editor" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAACAAEAAAA=</HashCode>
+      <FileName>Entidades\Pessoa\Editor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Periodicos.Dominio.Entidades.Pessoa.Avaliador" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAEEAAA=</HashCode>
+      <FileName>Entidades\Pessoa\Avaliador.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Periodicos.Dominio.Visitante">
+    <Position X="6" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Visitante.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Periodicos.Dominio.Entidades.Periodico.Edicao">
+    <Position X="10.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgABAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Entidades\Periodico\Edicao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Periodicos.Dominio.Entidades.Periodico.Periodico">
+    <Position X="12.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAABAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Periodico\Periodico.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Periodicos.Dominio.Entidades.IEntidade" Collapsed="true">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\IEntidade.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Periodicos.Dominio.Entidades.Pessoa.IPessoa" Collapsed="true">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Entidades\Pessoa\IPessoa.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Periodicos.Dominio.Entidades.Pessoa.IAutor" Collapsed="true">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Pessoa\IAutor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Periodicos.Dominio.Entidades.Periodico.IPeriodico" Collapsed="true">
+    <Position X="12" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Periodico\IPeriodico.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Periodicos.Dominio.Entidades.Periodico.IArtigo" Collapsed="true">
+    <Position X="8.25" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAEAAAAAAAAQCAAAAAEAIAAAQACAAAAAgkEAGA=</HashCode>
+      <FileName>Entidades\Periodico\IArtigo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Periodicos.Dominio.Entidades.Periodico.IEdicao" Collapsed="true">
+    <Position X="10.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgABAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Entidades\Periodico\IEdicao.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Periodicos.Dominio.Entidades.Pessoa.IAvaliador" Collapsed="true">
+    <Position X="4.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAEAAA=</HashCode>
+      <FileName>Entidades\Pessoa\IAvaliador.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Periodicos.Dominio.Entidades.Pessoa.IEditor" Collapsed="true">
+    <Position X="2.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Entidades\Pessoa\IEditor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Periodicos.Dominio.Entidades.Periodico.IPublicacao" Collapsed="true">
+    <Position X="10.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Periodico\IPublicacao.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Periodicos.Dominio.Entidades.Pessoa.IVisitante" Collapsed="true">
+    <Position X="6" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Pessoa\IVisitante.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
